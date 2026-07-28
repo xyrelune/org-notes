@@ -1,0 +1,19 @@
+#+TITLE: Emacs stuff
+
+* Usage
+This will be a document that contains all that I learn about emacs on a daily basis.
+
+Will also be the first org document that I will be using for an actual note taking use case.
+
+** Shortcuts
+- org-bable-tangle: for this press ~C-c C-v-t~ and the whole .org file will get tangled into files in the defined locations.
+ 
+** Magit
+The following steps will be used for a magit workflow.
+1. ~M-x magit status~ or ~C-x g~ will get us to the magit window.
+2. We press ~s~ to stage a file, and ~u~ to unstage.
+3. Then we press ~c c~ for writing a commit message.
+4. We finish the commit message by pressing ~C-c C-c~.
+5. To push to the default origin, pressing ~P p~.
+6. To pull changes press ~F p~.
+
