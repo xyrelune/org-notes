@@ -16,4 +16,6 @@ The following steps will be used for a magit workflow.
 4. We finish the commit message by pressing ~C-c C-c~.
 5. To push to the default origin, pressing ~P p~.
 6. To pull changes press ~F p~.
-
+*** To create a git repo and add remotes
+1. run ~magit-status~ on a folder that isn't tracked by git and run through the configuration steps.
+2. Then follow the above steps to commit and push normally.
