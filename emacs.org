@@ -35,3 +35,9 @@ The following steps will be used for a magit workflow.
 | Refresh                  | `g`       |
 | Open file                | `RET`     |
 | Go to parent directory   | `^`       |
+
+** Org mode
+| kbd   | Action                |
+|-------+-----------------------|
+| TAB   | Insert a row          |
+| C-c - | Insert a heading line |
