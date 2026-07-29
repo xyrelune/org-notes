@@ -22,7 +22,7 @@ The following steps will be used for a magit workflow.
 
 ** Dired
 | Action                   | Key       |
-| ------------------------ | --------- |
+| ---                      | ---       |
 | Create file              | `C-x C-f` |
 | Create directory         | `+`       |
 | Delete current file      | `D`       |
