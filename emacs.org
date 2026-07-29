@@ -19,3 +19,19 @@ The following steps will be used for a magit workflow.
 *** To create a git repo and add remotes
 1. run ~magit-status~ on a folder that isn't tracked by git and run through the configuration steps.
 2. Then follow the above steps to commit and push normally.
+
+** Dired
+| Action                   | Key       |
+| ------------------------ | --------- |
+| Create file              | `C-x C-f` |
+| Create directory         | `+`       |
+| Delete current file      | `D`       |
+| Mark file for deletion   | `d`       |
+| Execute marked deletions | `x`       |
+| Rename/Move              | `R`       |
+| Copy                     | `C`       |
+| Symlink                  | `S`       |
+| Hard link                | `H`       |
+| Refresh                  | `g`       |
+| Open file                | `RET`     |
+| Go to parent directory   | `^`       |
