@@ -37,6 +37,7 @@ The following steps will be used for a magit workflow.
 | Go to parent directory   | `^`       |
 
 ** Org mode
+*** Tables
 | kbd   | Action                |
 |-------+-----------------------|
 | TAB   | Insert a row          |
