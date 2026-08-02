@@ -19,7 +19,7 @@ The following steps will be used for a magit workflow.
 *** To create a git repo and add remotes
 1. Run ~magit-status~ on a folder that isn't tracked by git and run through the configuration steps.
 2. Then follow the above steps to commit and push normally.
-**** To just add a remote
+*** To just add a remote
 1 . Run ~magit-remote-add~ and follow the steps
 
 ** Dired
