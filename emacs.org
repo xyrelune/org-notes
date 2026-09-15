@@ -37,6 +37,7 @@ The following steps will be used for a magit workflow.
 | Refresh                  | g       |
 | Open file                | RET     |
 | Go to parent directory   | ^       |
+| To mark files            | m       |
 
 ** Org mode
 *** Tables
