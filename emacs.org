@@ -45,3 +45,7 @@ The following steps will be used for a magit workflow.
 |-------+-----------------------|
 | TAB   | Insert a row          |
 | C-c - | Insert a heading line |
+
+** Bufferline
+1. To clear the text in the bufferline completely, use the shortcut ~C-a C-k~
+2. To clear word-by-word, one word at a time then use this ~M-backspace~
